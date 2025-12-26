@@ -8,9 +8,9 @@
 https://mcdn.daserste.de/daserste/de/master.m3u8
 
 #EXTINF:-1 tvg-id="ZDF.de" tvg-logo="" group-title="Live TV",ZDF
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="" group-title="Live TV",ARTE Deutsch
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="" group-title="Live TV",ARTE
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 
 
@@ -19,13 +19,13 @@ https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 ############################
 
 #EXTINF:-1 tvg-id="house_haunted_hill_1959" tvg-logo="" group-title="Movies",House on Haunted Hill (1959)
-https://archive.org/download/The_House_On_Haunted_Hill/The_House_On_Haunted_Hill.mp4
+https://iliasak91.github.io/iptv-one-demo/movies/house-on-haunted-hill/
 
 #EXTINF:-1 tvg-id="nosferatu_1922" tvg-logo="" group-title="Movies",Nosferatu (1922)
-https://archive.org/download/publicmovies212/Nosferatu.webm
+https://iliasak91.github.io/iptv-one-demo/movies/nosferatu/
 
 #EXTINF:-1 tvg-id="outpost_morocco_1949" tvg-logo="" group-title="Movies",Outpost in Morocco (1949)
-https://archive.org/download/publicmovies212/Outpost_in_Morocco.webm
+https://iliasak91.github.io/iptv-one-demo/movies/outpost-in-morocco/
 
 #EXTINF:-1 tvg-id="nuremberg_trials" tvg-logo="" group-title="Movies",Nuremberg Trials
 https://archive.org/download/publicmovies212/Nuremberg_Trials.webm
@@ -37,14 +37,26 @@ https://archive.org/download/publicmovies212/Nuremberg_Trials.webm
 ############################
 
 #EXTINF:-1 tvg-id="popeye_s01e01" tvg-logo="" group-title="Series" season-number="1" episode-number="1",Popeye S01E01 - A Date to Skate
-https://archive.org/download/popeye-pubdomain/A_Date_to_Skate.mp4
+https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e01/
 
 #EXTINF:-1 tvg-id="popeye_s01e02" tvg-logo="" group-title="Series" season-number="1" episode-number="2",Popeye S01E02 - A Haul in One
-https://archive.org/download/popeye-pubdomain/A_Haul_in_One.mp4
+https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e02/
 
 #EXTINF:-1 tvg-id="popeye_s01e03" tvg-logo="" group-title="Series" season-number="1" episode-number="3",Popeye S01E03 - Aladdin and His Wonderful Lamp
-https://archive.org/download/popeye-pubdomain/Aladdin-and-His-Wonderful-Lamp.mp4
+https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e03/
 
 #EXTINF:-1 tvg-id="popeye_s01e04" tvg-logo="" group-title="Series" season-number="1" episode-number="4",Popeye S01E04 - Bride and Gloom
-https://archive.org/download/popeye-pubdomain/Bride-and-Gloom.mp4
+https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e04/
+
+#EXTINF:-1 tvg-id="popeye_s01e05" tvg-logo="" group-title="Series" season-number="1" episode-number="5",Popeye S01E05 - Episode 5
+https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e05/
+
+#EXTINF:-1 tvg-id="popeye_s01e06" tvg-logo="" group-title="Series" season-number="1" episode-number="6",Popeye S01E06 - Episode 6
+https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e06/
+
+#EXTINF:-1 tvg-id="popeye_s01e07" tvg-logo="" group-title="Series" season-number="1" episode-number="7",Popeye S01E07 - Episode 7
+https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e07/
+
+#EXTINF:-1 tvg-id="popeye_s01e08" tvg-logo="" group-title="Series" season-number="1" episode-number="8",Popeye S01E08 - Episode 8
+https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e08/
 
