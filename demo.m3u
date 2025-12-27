@@ -4,13 +4,13 @@
 # LIVE TV – Public Broadcasters
 ############################
 
-#EXTINF:-1 tvg-id="ARD.de" tvg-logo="" group-title="Live TV",ARD
+#EXTINF:-1 tvg-id="ARD.de" tvg-logo="" group-title="Demo",ARD
 https://mcdn.daserste.de/daserste/de/master.m3u8
 
-#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="" group-title="Live TV",ZDF
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="" group-title="Demo",ZDF
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="" group-title="Live TV",ARTE
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="" group-title="Demo",ARTE
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 
 
@@ -18,17 +18,14 @@ https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 # MOVIES – Public Domain
 ############################
 
-#EXTINF:-1 tvg-id="house_haunted_hill_1959" tvg-logo="" group-title="Movies",House on Haunted Hill (1959)
-https://iliasak91.github.io/iptv-one-demo/movies/house-on-haunted-hill/
+#EXTINF:-1 tvg-id="house_haunted_hill_1959" tvg-logo="" group-title="Horror Movies",House on Haunted Hill (1959)
+https://iliasak91.github.io/iptv-one-demo/movie/house-on-haunted-hill/
 
-#EXTINF:-1 tvg-id="nosferatu_1922" tvg-logo="" group-title="Movies",Nosferatu (1922)
-https://iliasak91.github.io/iptv-one-demo/movies/nosferatu/
+#EXTINF:-1 tvg-id="nosferatu_1922" tvg-logo="" group-title="Horror Movies",Nosferatu (1922)
+https://iliasak91.github.io/iptv-one-demo/movie/nosferatu/
 
-#EXTINF:-1 tvg-id="outpost_morocco_1949" tvg-logo="" group-title="Movies",Outpost in Morocco (1949)
-https://iliasak91.github.io/iptv-one-demo/movies/outpost-in-morocco/
-
-#EXTINF:-1 tvg-id="nuremberg_trials" tvg-logo="" group-title="Movies",Nuremberg Trials
-https://archive.org/download/publicmovies212/Nuremberg_Trials.webm
+#EXTINF:-1 tvg-id="outpost_morocco_1949" tvg-logo="" group-title="Action Movies",Outpost in Morocco (1949)
+https://iliasak91.github.io/iptv-one-demo/movie/outpost-in-morocco/
 
 
 ############################
@@ -36,27 +33,27 @@ https://archive.org/download/publicmovies212/Nuremberg_Trials.webm
 # IMPORTANT: season-number and episode-number are REQUIRED for series grouping!
 ############################
 
-#EXTINF:-1 tvg-id="popeye_s01e01" tvg-logo="" group-title="Series" season-number="1" episode-number="1",Popeye S01E01 - A Date to Skate
+#EXTINF:-1 tvg-id="popeye_s01e01" tvg-logo="" group-title="Classic Series" season-number="1" episode-number="1",Popeye S01E01 - A Date to Skate
 https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e01/
 
-#EXTINF:-1 tvg-id="popeye_s01e02" tvg-logo="" group-title="Series" season-number="1" episode-number="2",Popeye S01E02 - A Haul in One
+#EXTINF:-1 tvg-id="popeye_s01e02" tvg-logo="" group-title="Classic Series" season-number="1" episode-number="2",Popeye S01E02 - A Haul in One
 https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e02/
 
-#EXTINF:-1 tvg-id="popeye_s01e03" tvg-logo="" group-title="Series" season-number="1" episode-number="3",Popeye S01E03 - Aladdin and His Wonderful Lamp
+#EXTINF:-1 tvg-id="popeye_s01e03" tvg-logo="" group-title="Classic Series" season-number="1" episode-number="3",Popeye S01E03 - Aladdin and His Wonderful Lamp
 https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e03/
 
-#EXTINF:-1 tvg-id="popeye_s01e04" tvg-logo="" group-title="Series" season-number="1" episode-number="4",Popeye S01E04 - Bride and Gloom
+#EXTINF:-1 tvg-id="popeye_s01e04" tvg-logo="" group-title="Classic Series" season-number="1" episode-number="4",Popeye S01E04 - Bride and Gloom
 https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e04/
 
-#EXTINF:-1 tvg-id="popeye_s01e05" tvg-logo="" group-title="Series" season-number="1" episode-number="5",Popeye S01E05 - Episode 5
+#EXTINF:-1 tvg-id="popeye_s01e05" tvg-logo="" group-title="Classic Series" season-number="1" episode-number="5",Popeye S01E05 - Episode 5
 https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e05/
 
-#EXTINF:-1 tvg-id="popeye_s01e06" tvg-logo="" group-title="Series" season-number="1" episode-number="6",Popeye S01E06 - Episode 6
+#EXTINF:-1 tvg-id="popeye_s01e06" tvg-logo="" group-title="Classic Series" season-number="1" episode-number="6",Popeye S01E06 - Episode 6
 https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e06/
 
-#EXTINF:-1 tvg-id="popeye_s01e07" tvg-logo="" group-title="Series" season-number="1" episode-number="7",Popeye S01E07 - Episode 7
+#EXTINF:-1 tvg-id="popeye_s01e07" tvg-logo="" group-title="Classic Series" season-number="1" episode-number="7",Popeye S01E07 - Episode 7
 https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e07/
 
-#EXTINF:-1 tvg-id="popeye_s01e08" tvg-logo="" group-title="Series" season-number="1" episode-number="8",Popeye S01E08 - Episode 8
+#EXTINF:-1 tvg-id="popeye_s01e08" tvg-logo="" group-title="Classic Series" season-number="1" episode-number="8",Popeye S01E08 - Episode 8
 https://iliasak91.github.io/iptv-one-demo/series/popeye/s01e08/
 
